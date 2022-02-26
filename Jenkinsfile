@@ -31,7 +31,7 @@ pipeline{
     
     post{
         always{
-            echo 'this pipeline has completed...'
+            echo 'this maven pipeline has completed...'
         }
         
     }
